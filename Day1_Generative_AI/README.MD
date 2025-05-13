@@ -101,8 +101,9 @@ Generative AI is changing how we create, interact, and innovate. Its power to ge
 
 ## 🔗 Follow Me
 
-📖 Medium Blog: \[Your Medium Blog Link Here]
-🔗 LinkedIn: \[Your LinkedIn Profile Link Here]
+📖 Medium Blog: \[https://medium.com/@usmannaseem]
+
+🔗 LinkedIn: \[https://www.linkedin.com/in/usman-naseem-295720271/]
 
 ---
 
