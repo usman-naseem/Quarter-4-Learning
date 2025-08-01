@@ -1,3 +1,0 @@
-chainlit
-requests
-python-dotenv
