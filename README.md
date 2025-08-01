@@ -11,7 +11,7 @@ Quarter 4 is focused on advancing our skills in Artificial Intelligence  with a 
 - **OpenAI Agent SDK**
   - Understanding OpenAI's capabilities
   - Learning to interact with models like GPT using Python
-  - Building intelligent AI-powered applications using the OpenAI SDK
+  - Building intelligent AI-powered applications using the OpenAI Agent SDK
 
 ---
 
@@ -27,11 +27,10 @@ Quarter 4 is focused on advancing our skills in Artificial Intelligence  with a 
 ---
 
 
----
 
 ## 🔗 Linkdein Profile
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muhammad-usman-naseem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/usman-naseem-295720271/)
 
 ---
 
