@@ -28,7 +28,7 @@ Quarter 4 is focused on advancing our skills in Artificial Intelligence  with a 
 
 
 
-## 🔗 LinkedIN Profile
+## 🔗 Linkedin Profile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/usman-naseem-295720271/)
 
