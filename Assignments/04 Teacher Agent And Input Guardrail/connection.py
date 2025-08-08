@@ -4,6 +4,7 @@ from agents import AsyncOpenAI, OpenAIChatCompletionsModel, RunConfig
 
 load_dotenv(".env")
 
+
 gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 # Check if the API key is present; if not, raise an error
@@ -24,4 +25,5 @@ model = OpenAIChatCompletionsModel(
 config = RunConfig(
     model=model,
     model_provider=external_client,
+
 )
