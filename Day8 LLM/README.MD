@@ -1,4 +1,4 @@
-# 💡 What is an LLM (Large Language Model)?
+# 💡What is an LLM (Large Language Model)?
 
 A **Large Language Model (LLM)** is a type of **artificial intelligence model** trained on vast amounts of text data. These models use advanced mathematical techniques to understand, generate, and interact in human language.
 
@@ -76,4 +76,5 @@ LLMs are built using **deep learning** and **neural networks**, particularly a t
 | Grammarly          | Grammar & writing improvement        |
 | Notion AI          | Summarizing notes & documents        |
 | Google Gemini      | Multimodal assistant from Google     |
+
 
